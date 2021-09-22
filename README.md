@@ -11,6 +11,6 @@
   * learning algo
 
 ### references
-https://github.com/dessa-oss/DeepFake-Detection
-https://github.com/swayanshu/Deep-Fake-Detection
+https://github.com/dessa-oss/DeepFake-Detection \
+https://github.com/swayanshu/Deep-Fake-Detection \
 https://github.com/HongguLiu/Deepfake-Detection
