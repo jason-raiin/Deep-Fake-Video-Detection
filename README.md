@@ -5,7 +5,7 @@
   * audio
   * further manipulation
 
-1. model
+2. model
   * what type of NN
   * how many layers
   * learning algo
